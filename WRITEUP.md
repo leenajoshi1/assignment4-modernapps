@@ -15,7 +15,3 @@ Requirements 3.2 and 3.5: The admin successfully uploaded utcampus.jpg with a da
 ![Photo comments modal](screenshots/02-photo-comments.png)
 
 Requirement 3.6: Clicking the thumbnail opens a modal displaying the saved comment, “A sunny afternoon on campus.”
-
-![General-user gallery](screenshots/03-general-viewer.png)
-
-Requirement 4: A registered Gmail user can view photos uploaded by the admin. The general-user page does not display the photo upload form.
